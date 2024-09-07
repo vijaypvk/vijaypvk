@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vijaypvk" alt="vijaypvk" /></a> </p>
 
-- 🌱 I’m currently learning **QT Framework**
+- 🌱 I’m currently learning **TRANSFORMERS**
 
 - 📫 How to reach me **vijaypvk001@gmail.com**
 
