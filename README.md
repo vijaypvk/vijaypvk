@@ -1,29 +1,145 @@
-<h1 align="center">Hi 👋, I'm VIJAY KRISHNAA</h1>
-<h3 align="center">A Tech enthusiastic from India</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+I'm+Vijay+Krishnaa;Cloud+%26+DevOps+Engineer;AWS+%7C+Automation+%7C+IaC+%7C+CI%2FCD&center=true&size=28&color=0EA5E9" />
+</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vijaypvk&label=Profile%20views&color=0e75b6&style=flat" alt="vijaypvk" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vijaypvk" alt="vijaypvk" /></a> </p>
-
-- 🌱 I’m currently learning **TERRAFORM**
-
-- 📫 How to reach me **vijaypvk001@gmail.com**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/vijay-krishnaa-p-b85083293/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vijay-krishnaa-p-b85083293/" height="30" width="40" /></a>
-<a href="https://medium.com/@vijaypvk001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@vijaypvk001" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>  <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>   <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<h3 align="center">☁️ Cloud & DevOps Engineer | 🛠️ Automation Specialist | 🚀 Cross-Cloud Developer</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vijaypvk&show_icons=true&locale=en&layout=compact" alt="vijaypvk" /></p>
+<!-- 🌩️ Banner -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="85%" alt="Cloud and DevOps Banner"/>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vijaypvk&show_icons=true&locale=en" alt="vijaypvk" /></p>
+<!-- 👁️ Profile Visitors -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vijaypvk&label=Profile+Views&color=0ea5e9&style=flat-square" alt="Profile views" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vijaypvk&" alt="vijaypvk" /></p>
+---
+
+## 🚀 About Me
+
+- ☁️ Specializing in Cloud Computing and DevOps with a strong foundation in automation and infrastructure management  
+- 🐳 Hands-on experience with Docker, GitHub Actions, Terraform, and Proxmox for real-world system orchestration  
+- 🔧 Skilled in designing scalable, cross-cloud solutions with secure and efficient deployments  
+- 📈 Passionate about combining technical expertise with business insight to deliver impactful, production-ready systems
+- 🎓 B.E. Computer Science student at BIT
+   
+---
+
+## 🔧 Tech Stack & Tools
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" title="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50" title="AWS"/>
+  <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" width="40" title="Terraform"/>
+  <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" width="40" title="Ansible"/>
+  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="40" title="GitHub"/>
+  <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" width="40" title="Prometheus"/>
+  <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="40" title="Grafana"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" title="Linux"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" title="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" title="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python"/>
+</p>
+<!-- 🔁 DevOps Tools & Flow GIF -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="80%" alt="DevOps Flow GIF"/>
+</p>
+---
+
+## 🛠️ Projects
+
+### 🌩️ CloudPulse – Serverless Platform  
+- ⛅ Real-time function execution using containers  
+- 🔁 Cross-cloud deployment (AWS/GCP/Azure)  
+- 📦 Stack: Node.js, Express, Redis, React, Docker, CI/CD  
+- 🔗 [Repo Coming Soon]
+
+---
+
+### 🤖 MCP AI Agent for Cloud  
+- 🧠 Ollama + Redis-based agent for Proxmox automation  
+- 🔐 Token-secured API, 50+ Proxmox tasks automated  
+- 🛠️ Stack: Node.js, Redis, Docker, JWT, Express  
+
+---
+
+### 🔐 Decentralized Key Exchange Protocol  
+- 🕸️ Fully P2P architecture using ECDH + DHT  
+- 🔒 Confidential messaging with Fernet encryption  
+- 📡 Serverless, resilient, and privacy-focused  
+
+---
+
+## 🧠 Certifications
+
+- 🐙 **GitHub Foundations** – GitHub  
+- 🛰️ **Oracle Certified Associate**  
+- 🛡️ [Github Badge](https://www.credly.com/badges/4c14f0bb-318c-43b5-ae09-ee558baa4f44/public_url)  
+- 🛡️ [Oracle Badge](https://catalog-education.oracle.com/ords/certview/sharebadge?id=0E7B82F8A14EBB8050F3D2452FA77A3E41AA05E43A5E68964E7FA0AA1C0A26B1)
+
+---
+
+## 🏆 Achievements
+
+- 🥇 **Freelancer & Consultant** – CI/CD pipelines, app hosting, DevOps for clients
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vijaypvk&show_icons=true&count_private=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijaypvk&layout=compact&theme=tokyonight" width="42%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vijaypvk&theme=tokyonight" width="90%" />
+</p>
+
+---
+
+## 🏅 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vijaypvk&theme=onedark&no-frame=true&row=1" />
+</p>
+
+---
+
+## 🌱 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vijaypvk&theme=react-dark&area=true&radius=12" />
+</p>
+
+---
+
+## 📬 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/vijaykrishnaa" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:vijaypvk001@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/vijaypvk" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%2312100E?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="80%" />
+</p>
+
+<p align="center">
+  ⚡ <i>Building the future one commit at a time — with Cloud, Code & Coffee ☕</i>
+</p>
