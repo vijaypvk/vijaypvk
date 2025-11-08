@@ -9,10 +9,12 @@
 <h3 align="center">☁️ Cloud & DevOps Engineer | 🛠️ Automation Specialist | 🚀 Cross-Cloud Developer</h3>
 
 <!-- 🌩️ Banner -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="85%" alt="Cloud and DevOps Banner"/>
+</p> -->
+<p align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWE0YXpvOW5oeTBheHRkeWd3bGJhdWN4cGEzb21wdWpja3JkbjZzdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif" width="85%" alt="Cloud and DevOps Banner"/>
 </p>
-
 <!-- 👁️ Profile Visitors -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vijaypvk&label=Profile+Views&color=0ea5e9&style=flat-square" alt="Profile views" />
